@@ -531,7 +531,7 @@
               "name": "Amperka WiFi Slot"
             }
           ], 
-          "size": "13087845", 
+          "size": "12320153", 
           "toolsDependencies": [
             {
               "packager": "esp8266", 
