@@ -450,7 +450,7 @@
           "category": "ESP8266", 
           "name": "esp8266", 
           "url": "https://github.com/amperka/Arduino-1/raw/wifi-slot-release/esp8266-2.4.1-amperka.zip", 
-          "checksum": "SHA-256:8154f2a47c4b9b1f49e13110bd121e9a464309812c2bf995725b27342334ca6c", 
+          "checksum": "SHA-256:7fd2997734eff842cbc9a3a5afc71f183e2d6090ebdb5760e428a920d41763d4", 
           "version": "2.4.1", 
           "architecture": "esp8266", 
           "archiveFileName": "esp8266-2.4.1-amperka.zip", 
@@ -531,7 +531,7 @@
               "name": "Amperka WiFi Slot"
             }
           ], 
-          "size": "12320153", 
+          "size": "12320173", 
           "toolsDependencies": [
             {
               "packager": "esp8266", 
